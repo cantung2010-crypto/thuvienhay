@@ -1,0 +1,533 @@
+{
+  "books": [
+    {
+      "isbn": "9786042183246",
+      "libraryCode": "LIB-83246",
+      "title": "Tác phẩm văn học chọn lọc",
+      "author": "Tác giả đương đại",
+      "publisher": "NXB Trẻ",
+      "year": 2025,
+      "category": "Văn học",
+      "description": "\"Tác phẩm văn học chọn lọc\" của tác giả Tác giả đương đại là một tác phẩm giàu giá trị nhân văn và tri thức, được xuất bản bởi NXB Trẻ. Cuốn sách mở ra góc nhìn sâu sắc về cuộc sống, khơi gợi lòng đam mê khám phá và hoàn thiện bản thân cho độc giả.",
+      "summary": "Tác phẩm dẫn dắt người đọc qua từng trang sách bằng lối hành văn tinh tế, khắc họa chân thực những trải nghiệm và bài học sâu sắc. Qua từng diễn biến, tác giả gửi gắm nhiều chiêm nghiệm quý báu về con người, thời đại và khát vọng vươn lên.",
+      "keyTakeaways": [
+        "Nuôi dưỡng tư duy phản biện và lòng nhân ái trong đời sống",
+        "Biết trân trọng những bài học từ thử thách và trải nghiệm",
+        "Không ngừng học hỏi và làm mới bản thân mỗi ngày"
+      ],
+      "themes": [
+        "Văn học",
+        "Tri thức",
+        "Khám phá",
+        "Nhân sinh"
+      ],
+      "message": "Mỗi cuốn sách là một người bạn đồng hành, giúp ta thấu hiểu cuộc sống và nuôi dưỡng tâm hồn cao đẹp.",
+      "targetAge": "Mọi lứa tuổi",
+      "shelfLocation": "Kệ B2 - Tầng 1",
+      "coverImage": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=800&q=80",
+      "aiContext": "\"Tác phẩm văn học chọn lọc\" của tác giả Tác giả đương đại là một tác phẩm giàu giá trị nhân văn và tri thức, được xuất bản bởi NXB Trẻ. Cuốn sách mở ra góc nhìn sâu sắc về cuộc sống, khơi gợi lòng đam mê khám phá và hoàn thiện bản thân cho độc giả.",
+      "characters": [
+        {
+          "id": "char-1",
+          "name": "Nhân vật chính",
+          "role": "Trung tâm câu chuyện",
+          "description": "Đại diện cho linh hồn tư tưởng và hành trình vượt qua thử thách trong \"Tác phẩm văn học chọn lọc\".",
+          "personality": "Nghị lực, ham học hỏi và trắc ẩn",
+          "symbolicMeaning": "Biểu tượng cho khát vọng hoàn thiện bản thân",
+          "keyQuote": "Tri thức là chìa khóa mở lối tương lai."
+        }
+      ],
+      "plotSynopsis": {
+        "overview": "Toàn bộ diễn biến của \"Tác phẩm văn học chọn lọc\" phản ánh hành trình khám phá, đối mặt với thử thách và trưởng thành của các nhân vật.",
+        "arc": [
+          {
+            "phase": "Mở đầu",
+            "title": "Khởi đầu hành trình",
+            "description": "Giới thiệu hoàn cảnh xuất phát điểm và các động lực ban đầu của \"Tác phẩm văn học chọn lọc\"."
+          },
+          {
+            "phase": "Biến cố",
+            "title": "Biến cố & Thử thách nhận thức",
+            "description": "Các sự kiện phát triển đẩy nhân vật vào những lựa chọn quyết định."
+          },
+          {
+            "phase": "Cao trào",
+            "title": "Điểm nút cao trào",
+            "description": "Thời điểm xung đột đạt đỉnh điểm, tạo nên bước ngoặt tư tưởng sâu sắc."
+          },
+          {
+            "phase": "Mở nút & Kết thúc",
+            "title": "Mở nút & Bài học nhân văn",
+            "description": "Các vấn đề được thấu suốt, để lại dư âm suy ngẫm cho người đọc."
+          }
+        ],
+        "keyEvents": [
+          "Khởi đầu bối cảnh câu chuyện",
+          "Xuất hiện thử thách lớn",
+          "Vượt qua bước ngoặt nhận thức",
+          "Đúc kết thông điệp nhân văn"
+        ]
+      },
+      "rating": 5,
+      "pageCount": 280,
+      "id": "tac-pham-van-hoc-chon-loc-8096",
+      "views": 5,
+      "scanCount": 4,
+      "createdAt": "2026-10-01T15:41:28.097Z",
+      "updatedAt": "2026-10-01T15:41:28.097Z"
+    },
+    {
+      "title": "TRUYỆN KIỀU",
+      "author": "Nguyễn Du",
+      "isbn": "STK-006073",
+      "category": "Văn học",
+      "description": "Truyện Kiều của đại thi hào Nguyễn Du là một kiệt tác bất hủ của văn học Việt Nam, kể về cuộc đời đầy sóng gió của Thúy Kiều - người con gái tài sắc vẹn toàn nhưng phải trải qua biết bao đau khổ, chia lìa và bất công. Bằng thể thơ lục bát giàu nhạc điệu, ngôn ngữ tinh luyện và nghệ thuật miêu tả tâm lý đặc sắc, Nguyễn Du đã biến câu chuyện về một người phụ nữ thành bức tranh rộng lớn về xã hội và con người. Tác phẩm vừa là tiếng nói tố cáo những thế lực chà đạp lên con người, vừa là lời ngợi ca vẻ đẹp của tình yêu, lòng hiếu thảo, sự thủy chung và nhân phẩm. Hơn hai thế kỷ đã trôi qua, Truyện Kiều vẫn giữ nguyên sức sống bởi những vấn đề mà tác phẩm đặt ra vẫn khiến con người hôm nay suy ngẫm về tình yêu, gia đình, số phận, công lý và giá trị của lòng nhân ái.",
+      "summary": "Truyện Kiều, tên chữ là Đoạn trường tân thanh, là kiệt tác của đại thi hào Nguyễn Du và là một trong những tác phẩm quan trọng nhất của văn học Việt Nam. Tác phẩm gồm 3.254 câu thơ lục bát, kể về cuộc đời nhiều biến động của Thúy Kiều, một người con gái tài sắc, thông minh, giàu lòng hiếu thảo nhưng phải chịu nhiều bất hạnh trong xã hội phong kiến. Trong một lần du xuân, Kiều gặp Kim Trọng và hai người nảy sinh tình yêu, cùng nhau thề nguyền gắn bó. Tuy nhiên, gia đình Kiều bất ngờ gặp tai biến, cha và em trai bị bắt. Để cứu cha, Kiều buộc phải bán mình, từ bỏ tình yêu và trao duyên lại cho em gái là Thúy Vân. Từ đó, nàng bắt đầu những năm tháng lưu lạc đầy đau khổ, lần lượt rơi vào tay Mã Giám Sinh, Tú Bà, Sở Khanh, Thúc Sinh, Hoạn Thư và nhiều thế lực khác. Sau khi gặp Từ Hải, Kiều có một khoảng thời gian được sống trong tự do và thực hiện báo ân báo oán, nhưng bi kịch lại tiếp tục xảy đến khi Từ Hải bị Hồ Tôn Hiến lừa và sát hại. Kiều trải qua thêm nhiều đau khổ trước khi được cứu và trở về đoàn tụ với gia đình, gặp lại Kim Trọng. Qua cuộc đời Thúy Kiều, Nguyễn Du không chỉ kể một câu chuyện tình yêu và số phận mà còn thể hiện niềm thương cảm sâu sắc đối với con người, đặc biệt là những người phụ nữ tài sắc nhưng bị xã hội phong kiến chà đạp.",
+      "publisher": "NXB Văn Học",
+      "year": 2024,
+      "coverImage": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-1-truy_n-ki_u.jpg",
+      "shelfLocation": "Chưa cập nhập",
+      "pageCount": 186,
+      "aiContext": "Dữ liệu sách TRUYỆN KIỀU do bạn đọc đóng góp vào thư viện.",
+      "themes": [
+        "Văn học",
+        "Đọc sách",
+        "Khám phá"
+      ],
+      "keyTakeaways": [
+        "Cuộc gặp gỡ giữa Thúy Kiều và Kim Trọng trong tiết Thanh minh là sự kiện mở đầu cho mối tình quan trọng nhất trong cuộc đời Kiều. Hai người tìm thấy sự đồng điệu và nhanh chóng dành tình cảm cho nhau. Lời thề nguyền giữa họ thể hiện khát vọng yêu đương tự nguyện và mong muốn được quyết định hạnh phúc của chính mình.",
+        "Khi gia đình gặp tai biến, Kiều quyết định bán mình để cứu cha và em trai. Đây là bước ngoặt lớn nhất của tác phẩm, bởi nàng đã chấp nhận từ bỏ tình yêu, tuổi trẻ và tương lai của bản thân để thực hiện chữ hiếu. Sau đó, Kiều trao lại mối duyên với Kim Trọng cho Thúy Vân. Bi kịch của nhân vật bắt đầu từ chính sự hi sinh cao đẹp ấy.",
+        "Lầu Ngưng Bích là nơi Kiều rơi vào hoàn cảnh cô đơn và tuyệt vọng. Tại đây, nàng nhớ Kim Trọng, thương cha mẹ và lo sợ cho tương lai của mình. Thiên nhiên trong đoạn thơ không chỉ là bối cảnh mà còn trở thành phương tiện để Nguyễn Du diễn tả tâm trạng. Đây là một trong những đoạn thể hiện rõ nhất nghệ thuật tả cảnh ngụ tình và khả năng khám phá thế giới nội tâm nhân vật của Nguyễn Du.",
+        "Cuộc gặp gỡ với Từ Hải đem đến cho Kiều một khoảng thời gian được sống trong tự do và có cơ hội làm chủ số phận. Với sự giúp đỡ của Từ Hải, Kiều thực hiện báo ân đối với những người từng giúp mình và báo oán đối với những người từng gây đau khổ. Sự kiện này thể hiện khát vọng công lý và mong muốn được trả lại sự công bằng cho những con người từng chịu bất công.",
+        "Bi kịch xảy ra khi Hồ Tôn Hiến dùng thủ đoạn khiến Từ Hải rơi vào bẫy. Cái chết của Từ Hải khiến Kiều một lần nữa mất đi chỗ dựa và rơi vào hoàn cảnh đau khổ. Sự kiện này đồng thời cho thấy sức mạnh của quyền lực phong kiến và sự mong manh của những khát vọng tự do trong xã hội cũ.",
+        "Sau nhiều năm lưu lạc, Kiều cuối cùng trở về với gia đình và gặp lại Kim Trọng. Cuộc đoàn tụ đem đến sự giải tỏa sau một hành trình dài đầy đau khổ. Tuy nhiên, Kiều không còn là cô gái của những ngày đầu tác phẩm. Những biến cố đã làm nàng thay đổi sâu sắc, khiến cuộc đoàn tụ mang ý nghĩa của sự cảm thông, trân trọng và chữa lành hơn là sự trở lại nguyên vẹn của quá khứ."
+      ],
+      "message": "Truyện Kiều gửi gắm nhiều bài học sâu sắc về con người và cuộc đời. Tác phẩm trước hết đề cao giá trị của nhân phẩm, tài năng và quyền được sống, được yêu thương của mỗi con người. Qua số phận Thúy Kiều, Nguyễn Du thể hiện lòng thương cảm đối với những con người bất hạnh, đồng thời lên án một xã hội nơi đồng tiền, quyền lực và những định kiến có thể chà đạp lên phẩm giá con người. Tác phẩm cũng nhấn mạnh giá trị của tình thân và lòng hiếu thảo khi Kiều chấp nhận hi sinh tình yêu và hạnh phúc riêng để cứu cha. Bên cạnh đó, câu chuyện về Kiều và Kim Trọng cho thấy vẻ đẹp của tình yêu chân thành và sự thủy chung, trong khi hành trình lưu lạc của Kiều lại gợi lên bài học về nghị lực, lòng nhân ái và khả năng giữ gìn phẩm giá giữa nghịch cảnh. Đặc biệt, tư tưởng “chữ tâm” mà Nguyễn Du đề cao vẫn mang ý nghĩa sâu sắc: tài năng rất đáng quý, nhưng lòng nhân ái và đạo đức mới là nền tảng làm nên giá trị của một con người.",
+      "targetAge": "Học sinh & Bạn đọc",
+      "rating": 4.9,
+      "featured": false,
+      "characters": [
+        {
+          "id": "char-1",
+          "name": "Thúy Kiều",
+          "role": "Nhân vật chính, trung tâm của toàn bộ tác phẩm.",
+          "description": "",
+          "personality": "Tài sắc vẹn toàn, thông minh, đa tài, giàu lòng hiếu thảo, giàu tình cảm và có ý thức về phẩm giá. Là người con gái có vẻ đẹp nổi bật, giỏi cầm, kỳ, thi, họa.",
+          "symbolicMeaning": "Biểu tượng cho vẻ đẹp, tài năng, khát vọng sống và số phận đau khổ của người phụ nữ trong xã hội phong kiến.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265783707",
+          "name": "Kim Trọng",
+          "role": "Người yêu và người có mối tình sâu sắc với Thúy Kiều.",
+          "description": "",
+          "personality": "Có học thức, phong nhã, trân trọng tình yêu, gắn bó với Kiều qua lời thề nguyền. Nhân vật được xây dựng theo hình mẫu người tình lý tưởng trong văn học trung đại.",
+          "symbolicMeaning": "Đại diện cho tình yêu chân thành, sự thủy chung và khát vọng hạnh phúc lứa đôi.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265784124",
+          "name": "Thúy Vân",
+          "role": "Em gái Thúy Kiều, người nhận lời trao duyên của chị.",
+          "description": "",
+          "personality": "Xinh đẹp, đoan trang, dịu dàng, có vẻ đẹp đầy đặn và phúc hậu theo bút pháp ước lệ của Nguyễn Du.",
+          "symbolicMeaning": "Đại diện cho tình thân, sự hi sinh trong gia đình và những ràng buộc của duyên phận.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265784574",
+          "name": "Vương Quan",
+          "role": "Em trai của Thúy Kiều, con trai trong gia đình Vương viên ngoại.",
+          "description": "",
+          "personality": "Có học thức, là thành viên trong gia đình có vai trò gắn kết với các biến cố của gia đình Kiều.",
+          "symbolicMeaning": "Đại diện cho mối quan hệ gia đình và những trách nhiệm, biến cố ảnh hưởng đến số phận mỗi thành viên.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265784952",
+          "name": "Vương ông và Vương bà",
+          "role": "Cha mẹ của Thúy Kiều, Thúy Vân và Vương Quan.",
+          "description": "",
+          "personality": "Vương ông là người cha giàu tình thương với con; gia đình mang đặc điểm của một gia đình trung lưu trong xã hội xưa. Sự bất hạnh của gia đình trở thành nguyên nhân trực tiếp dẫn đến bước ngoặt cuộc đời Kiều.",
+          "symbolicMeaning": "Đại diện cho tình phụ mẫu, tình thân và những người vô tội chịu tác động bởi sự bất công của xã hội.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265785344",
+          "name": "Mã Giám Sinh",
+          "role": "Kẻ giả danh người có học thức, tham gia mua Kiều và đẩy nàng vào hoàn cảnh bị bóc lột.",
+          "description": "",
+          "personality": "Giả dối, thực dụng, coi con người như món hàng có thể trao đổi bằng tiền bạc.",
+          "symbolicMeaning": "Đại diện cho thế lực đồng tiền, sự lừa lọc và tình trạng mua bán con người trong xã hội phong kiến.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265785722",
+          "name": "Tú Bà",
+          "role": "Chủ lầu xanh, người khai thác và áp bức Thúy Kiều.",
+          "description": "",
+          "personality": "Gian xảo, tàn nhẫn, thực dụng, sử dụng nhiều thủ đoạn để kiểm soát người khác.",
+          "symbolicMeaning": "Đại diện cho sự bóc lột, thế lực kinh doanh thân xác và những cơ chế chà đạp phẩm giá con người.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265786066",
+          "name": "Sở Khanh",
+          "role": "Kẻ lừa gạt Kiều bằng lời hứa giúp đỡ rồi phản bội nàng.",
+          "description": "",
+          "personality": "Xảo quyệt, giả nhân giả nghĩa, ích kỷ và thiếu trách nhiệm.",
+          "symbolicMeaning": "Đại diện cho sự giả dối, phản bội và những mối nguy hiểm ẩn sau vẻ ngoài hào nhoáng.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265786448",
+          "name": "Thúc Sinh",
+          "role": "Người cứu Kiều khỏi lầu xanh và trở thành người có quan hệ tình cảm với nàng.",
+          "description": "",
+          "personality": "Có tình cảm với Kiều nhưng yếu đuối, thiếu quyết đoán trước quyền lực của Hoạn Thư.",
+          "symbolicMeaning": "Thể hiện sự phức tạp của tình yêu, giới hạn của lòng thương và sự bất lực của con người trước những ràng buộc xã hội.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265786802",
+          "name": "Hoạn Thư",
+          "role": "Vợ của Thúc Sinh, nhân vật gây ra nhiều đau khổ cho Thúy Kiều.",
+          "description": "",
+          "personality": "Ghen tuông, sắc sảo, khôn ngoan, giỏi ứng biến và có khả năng sử dụng quyền lực để trừng phạt người khác.",
+          "symbolicMeaning": "Phản ánh sự áp bức trong quan hệ quyền lực và tâm lý ghen tuông; đồng thời là nhân vật có chiều sâu, không hoàn toàn đơn giản theo một chiều thiện ác.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265787138",
+          "name": "Từ Hải",
+          "role": "Người anh hùng xuất hiện trong cuộc đời Kiều, đưa nàng ra khỏi hoàn cảnh khổ đau và giúp nàng thực hiện báo ân báo oán.",
+          "description": "",
+          "personality": "Có chí khí lớn, tài năng, bản lĩnh và khát vọng tự do. Được Nguyễn Du xây dựng với tầm vóc phi thường, mang dáng dấp của người anh hùng lý tưởng.",
+          "symbolicMeaning": "Đại diện cho khát vọng tự do, công lý và ước mơ về một sức mạnh có thể giải phóng con người khỏi áp bức.",
+          "keyQuote": ""
+        },
+        {
+          "id": "char-1790265787432",
+          "name": "Hồ Tôn Hiến",
+          "role": "Quan triều đình dùng mưu kế để đối phó với Từ Hải, góp phần dẫn đến bi kịch của nhân vật này.",
+          "description": "",
+          "personality": "Mưu mô, thực dụng, đại diện cho quyền lực chính trị và những thủ đoạn của bộ máy cai trị.",
+          "symbolicMeaning": "Đại diện cho sự gian trá của quyền lực và mặt trái của những lời hứa chính trị.",
+          "keyQuote": ""
+        }
+      ],
+      "plotSynopsis": {
+        "overview": "Cốt truyện Truyện Kiều xoay quanh cuộc đời của Thúy Kiều từ khi nàng còn sống trong một gia đình êm ấm cho đến khi trải qua hàng loạt biến cố và cuối cùng trở về đoàn tụ. Câu chuyện bắt đầu bằng cuộc gặp gỡ giữa Kiều và Kim Trọng, mở ra một mối tình đẹp nhưng nhanh chóng bị chia cắt bởi biến cố gia đình. Để cứu cha, Kiều phải bán mình và trao duyên cho em gái, từ đó bước vào mười lăm năm lưu lạc. Trong hành trình ấy, nàng liên tục rơi vào những hoàn cảnh éo le, gặp những con người vừa đáng thương vừa đáng trách, có lúc tưởng như tìm được tự do nhưng rồi lại tiếp tục rơi xuống đáy của đau khổ. Cuộc gặp gỡ với Từ Hải mang đến cho Kiều một khoảng thời gian được sống theo ý muốn của mình, nhưng cuối cùng nàng vẫn phải chịu thêm bi kịch. Sau nhiều năm lưu lạc, Kiều trở về với gia đình và gặp lại Kim Trọng. Tuy nhiên, sự đoàn tụ cuối truyện không đơn thuần là sự trở lại của một hạnh phúc nguyên vẹn mà còn chứa đựng sự cảm thông đối với những tổn thương mà Kiều đã trải qua.",
+        "arc": [
+          {
+            "phase": "Mở đầu",
+            "title": "Gặp gỡ và đính ước",
+            "description": "Phần mở đầu giới thiệu gia đình Vương viên ngoại cùng hai chị em Thúy Kiều và Thúy Vân. Kiều được khắc họa là người con gái có nhan sắc và tài năng nổi bật. Trong một lần du xuân vào tiết Thanh minh, Kiều gặp Kim Trọng và hai người nhanh chóng nảy sinh tình cảm. Mối tình ấy phát triển thành lời thề nguyền gắn bó, mở ra một tương lai tưởng như tràn đầy hạnh phúc đối với Kiều."
+          },
+          {
+            "phase": "Biến cố",
+            "title": "Gia biến và bán mình cứu cha",
+            "description": "Biến cố xảy đến khi gia đình Kiều bị vu oan, cha và em trai bị bắt. Trước tình cảnh đó, Kiều buộc phải lựa chọn giữa tình yêu riêng và trách nhiệm với gia đình. Cuối cùng, nàng quyết định bán mình để cứu cha, đồng thời trao duyên cho Thúy Vân. Quyết định ấy đánh dấu bước ngoặt lớn nhất trong cuộc đời Kiều, đưa nàng rời khỏi gia đình và bắt đầu những năm tháng lưu lạc đầy đau khổ."
+          },
+          {
+            "phase": "Cao trào",
+            "title": "Những năm tháng lưu lạc và bi kịch",
+            "description": "Sau khi bị lừa bán vào lầu xanh, Kiều liên tục phải đối mặt với những thế lực và con người muốn lợi dụng nàng. Nàng trải qua mối quan hệ với Thúc Sinh, chịu sự hành hạ của Hoạn Thư, rồi tiếp tục rơi vào những biến cố khác. Cuộc gặp gỡ Từ Hải mở ra một bước ngoặt mới khi Kiều có cơ hội thoát khỏi cuộc sống bị áp bức và thực hiện báo ân báo oán. Tuy nhiên, Từ Hải sau đó bị Hồ Tôn Hiến dùng mưu kế lừa gạt, khiến Kiều lại rơi vào cảnh đau khổ. Đây là giai đoạn bi kịch nhất trong cuộc đời nhân vật."
+          },
+          {
+            "phase": "Mở nút & Kết thúc",
+            "title": "Đoàn tụ",
+            "description": "Sau những năm tháng lưu lạc, Kiều được cứu và trở về đoàn tụ với gia đình. Nàng gặp lại Kim Trọng, người vẫn dành cho nàng tình cảm và sự trân trọng. Cuộc đoàn tụ khép lại hành trình đầy đau khổ của Kiều nhưng không thể xóa bỏ hoàn toàn những tổn thương mà nàng đã trải qua. Kết thúc tác phẩm vì thế vừa mang màu sắc đoàn viên, vừa gợi lên sự cảm thông sâu sắc đối với số phận con người."
+          }
+        ],
+        "keyEvents": [
+          "Cuộc gặp gỡ giữa Thúy Kiều và Kim Trọng trong tiết Thanh minh là sự kiện mở đầu cho mối tình quan trọng nhất trong cuộc đời Kiều. Hai người tìm thấy sự đồng điệu và nhanh chóng dành tình cảm cho nhau. Lời thề nguyền giữa họ thể hiện khát vọng yêu đương tự nguyện và mong muốn được quyết định hạnh phúc của chính mình.",
+          "Khi gia đình gặp tai biến, Kiều quyết định bán mình để cứu cha và em trai. Đây là bước ngoặt lớn nhất của tác phẩm, bởi nàng đã chấp nhận từ bỏ tình yêu, tuổi trẻ và tương lai của bản thân để thực hiện chữ hiếu. Sau đó, Kiều trao lại mối duyên với Kim Trọng cho Thúy Vân. Bi kịch của nhân vật bắt đầu từ chính sự hi sinh cao đẹp ấy.",
+          "Lầu Ngưng Bích là nơi Kiều rơi vào hoàn cảnh cô đơn và tuyệt vọng. Tại đây, nàng nhớ Kim Trọng, thương cha mẹ và lo sợ cho tương lai của mình. Thiên nhiên trong đoạn thơ không chỉ là bối cảnh mà còn trở thành phương tiện để Nguyễn Du diễn tả tâm trạng. Đây là một trong những đoạn thể hiện rõ nhất nghệ thuật tả cảnh ngụ tình và khả năng khám phá thế giới nội tâm nhân vật của Nguyễn Du.",
+          "Cuộc gặp gỡ với Từ Hải đem đến cho Kiều một khoảng thời gian được sống trong tự do và có cơ hội làm chủ số phận. Với sự giúp đỡ của Từ Hải, Kiều thực hiện báo ân đối với những người từng giúp mình và báo oán đối với những người từng gây đau khổ. Sự kiện này thể hiện khát vọng công lý và mong muốn được trả lại sự công bằng cho những con người từng chịu bất công.",
+          "Bi kịch xảy ra khi Hồ Tôn Hiến dùng thủ đoạn khiến Từ Hải rơi vào bẫy. Cái chết của Từ Hải khiến Kiều một lần nữa mất đi chỗ dựa và rơi vào hoàn cảnh đau khổ. Sự kiện này đồng thời cho thấy sức mạnh của quyền lực phong kiến và sự mong manh của những khát vọng tự do trong xã hội cũ.",
+          "Sau nhiều năm lưu lạc, Kiều cuối cùng trở về với gia đình và gặp lại Kim Trọng. Cuộc đoàn tụ đem đến sự giải tỏa sau một hành trình dài đầy đau khổ. Tuy nhiên, Kiều không còn là cô gái của những ngày đầu tác phẩm. Những biến cố đã làm nàng thay đổi sâu sắc, khiến cuộc đoàn tụ mang ý nghĩa của sự cảm thông, trân trọng và chữa lành hơn là sự trở lại nguyên vẹn của quá khứ."
+        ]
+      },
+      "authorDetails": {
+        "name": "Nguyễn Du",
+        "years": "1765 - 1820",
+        "country": "Làng Tiên Điền, huyện Nghi Xuân, trấn Nghệ An; nay thuộc tỉnh Hà Tĩnh",
+        "bio": "Nguyễn Du là một trong những nhà thơ lớn nhất của văn học Việt Nam. Cuộc đời ông trải qua nhiều biến động gắn liền với những thay đổi lớn của lịch sử dân tộc. Những trải nghiệm phong phú trong cuộc sống đã giúp Nguyễn Du có cái nhìn sâu sắc về con người và xã hội. Ông sáng tác bằng cả chữ Hán và chữ Nôm, để lại nhiều tác phẩm có giá trị, trong đó Truyện Kiều là đỉnh cao của sáng tác chữ Nôm. Với tài năng ngôn ngữ đặc biệt, Nguyễn Du đã đưa thể thơ lục bát lên một trình độ nghệ thuật cao, đồng thời tạo nên những nhân vật có chiều sâu tâm lý và sức sống lâu bền trong văn hóa Việt Nam.",
+        "writingStyle": "Phong cách sáng tác của Nguyễn Du nổi bật bởi tư tưởng nhân đạo sâu sắc, lòng thương cảm đối với những con người bất hạnh và sự trân trọng đối với tài năng, phẩm giá cùng khát vọng hạnh phúc của con người. Ông có khả năng miêu tả tâm lý nhân vật tinh tế, đặc biệt là những trạng thái cảm xúc phức tạp như đau khổ, nhớ thương, tuyệt vọng, hi vọng và giằng xé nội tâm. Ngôn ngữ thơ của Nguyễn Du vừa giàu tính bác học, vừa gần gũi với ngôn ngữ dân gian, kết hợp nhuần nhuyễn giữa điển tích, điển cố và cách diễn đạt giàu hình ảnh. Đặc biệt, nghệ thuật sử dụng thể thơ lục bát của ông đạt đến trình độ mẫu mực, tạo nên sự hòa quyện giữa nhạc điệu, hình ảnh và cảm xúc.",
+        "famousQuote": "Một trong những câu thơ nổi tiếng nhất thể hiện tư tưởng của Nguyễn Du là: “Chữ tâm kia mới bằng ba chữ tài.” Câu thơ đề cao lòng nhân ái và đạo đức, cho thấy trong quan niệm của Nguyễn Du, tài năng dù quý giá nhưng không thể tách rời khỏi cái tâm của con người. Bên cạnh đó, câu mở đầu “Trăm năm trong cõi người ta” và câu thơ “Trải qua một cuộc bể dâu” cũng thể hiện rõ cái nhìn giàu tính triết lý của Nguyễn Du về cuộc đời, số phận và những biến động mà con người phải trải qua."
+      },
+      "historicalContext": {
+        "period": "Nguyễn Du sống vào cuối thế kỷ XVIII và đầu thế kỷ XIX, thời kỳ xã hội Việt Nam có nhiều biến động về chính trị, kinh tế và đời sống xã hội. Các cuộc chiến tranh, sự thay đổi giữa các tập đoàn phong kiến và quá trình chuyển giao triều đại khiến đời sống con người chịu nhiều ảnh hưởng. Chính bối cảnh lịch sử phức tạp ấy góp phần hình thành cái nhìn sâu sắc của Nguyễn Du về sự mong manh của số phận và những bất công mà con người có thể phải chịu đựng.",
+        "creationCircumstance": "Truyện Kiều được Nguyễn Du sáng tác dựa trên cốt truyện của Kim Vân Kiều truyện của Thanh Tâm Tài Nhân, một tác phẩm văn học Trung Quốc. Tuy nhiên, Nguyễn Du không đơn thuần chuyển thể mà đã sáng tạo lại toàn bộ câu chuyện bằng thể thơ lục bát, thay đổi cách xây dựng nhân vật, đào sâu tâm lý và đưa vào tác phẩm những tư tưởng nhân đạo mang dấu ấn riêng. Qua câu chuyện về Thúy Kiều, Nguyễn Du thể hiện sự đồng cảm với những con người bất hạnh, đặc biệt là người phụ nữ, đồng thời phản ánh những bất công của xã hội phong kiến và khẳng định giá trị của tình yêu, lòng hiếu thảo, nhân phẩm và khát vọng tự do.",
+        "societalImpact": "Truyện Kiều có giá trị đặc biệt đối với văn học và văn hóa Việt Nam. Tác phẩm không chỉ đạt đến đỉnh cao về nghệ thuật ngôn ngữ và thể thơ lục bát mà còn chứa đựng tư tưởng nhân đạo sâu sắc. Qua cuộc đời Thúy Kiều, Nguyễn Du đặt ra những vấn đề về quyền sống, tình yêu, gia đình, công lý, nhân phẩm và số phận con người. Những vấn đề ấy không chỉ thuộc về xã hội mà Nguyễn Du từng sống mà còn có khả năng chạm đến suy nghĩ của nhiều thế hệ độc giả. Truyện Kiều đã trở thành một phần quan trọng của di sản văn học dân tộc, được nghiên cứu, giảng dạy, chuyển thể và nhắc lại trong nhiều hình thức nghệ thuật. Sức sống lâu bền của tác phẩm nằm ở việc mỗi thế hệ có thể tìm thấy trong câu chuyện của Thúy Kiều những suy ngẫm mới về con người, tình yêu, lòng nhân ái và cách con người đối diện với nghịch cảnh."
+      },
+      "id": "truyen-kieu-1784",
+      "views": 1,
+      "scanCount": 0,
+      "createdAt": "2026-09-24T16:15:41.784Z",
+      "updatedAt": "2026-09-24T16:15:41.784Z",
+      "libraryCode": "LIB-06073"
+    }
+  ],
+  "scanLogs": [
+    {
+      "id": "scan-1789993860913-cknkx",
+      "bookId": "de-men-phieu-luu-ky",
+      "isbn": "9786042183246",
+      "scannedAt": "2026-09-21T12:31:00.913Z",
+      "source": "camera",
+      "success": true
+    },
+    {
+      "id": "scan-1789993876752-gch4a",
+      "bookId": "de-men-phieu-luu-ky",
+      "isbn": "978-604-218-324-6",
+      "scannedAt": "2026-09-21T12:31:16.752Z",
+      "source": "camera",
+      "success": true
+    },
+    {
+      "id": "scan-1790869287668-5yo7o",
+      "isbn": "9786042183246",
+      "scannedAt": "2026-10-01T15:41:27.668Z",
+      "source": "camera",
+      "success": false
+    },
+    {
+      "id": "scan-1790869303680-1jr5e",
+      "bookId": "tac-pham-van-hoc-chon-loc-8096",
+      "isbn": "LIB-83246",
+      "scannedAt": "2026-10-01T15:41:43.680Z",
+      "source": "camera",
+      "success": true
+    },
+    {
+      "id": "scan-1790869314939-8b0ti",
+      "bookId": "tac-pham-van-hoc-chon-loc-8096",
+      "isbn": "83246",
+      "scannedAt": "2026-10-01T15:41:54.939Z",
+      "source": "camera",
+      "success": true
+    },
+    {
+      "id": "scan-1790957361432-bcwm7",
+      "bookId": "tac-pham-van-hoc-chon-loc-8096",
+      "isbn": "9786042183246",
+      "scannedAt": "2026-10-02T16:09:21.432Z",
+      "source": "camera",
+      "success": true
+    },
+    {
+      "id": "scan-1790957367246-ghuqz",
+      "bookId": "tac-pham-van-hoc-chon-loc-8096",
+      "isbn": "LIB-83246",
+      "scannedAt": "2026-10-02T16:09:27.246Z",
+      "source": "camera",
+      "success": true
+    }
+  ],
+  "searchLogs": [
+    {
+      "id": "ai-query-1788968732661",
+      "query": "[AI Q&A] 🎯 Điều em có thể học được",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T15:45:32.661Z"
+    },
+    {
+      "id": "ai-query-1788968736395",
+      "query": "[AI Q&A] ❓ 3 Câu hỏi ôn tập thảo luận",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T15:45:36.395Z"
+    },
+    {
+      "id": "ai-query-1788968739290",
+      "query": "[AI Q&A] ❓ 3 Câu hỏi ôn tập thảo luận",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T15:45:39.290Z"
+    },
+    {
+      "id": "ai-query-1788968742462",
+      "query": "[AI Q&A] ❓ 3 Câu hỏi ôn tập thảo luận",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T15:45:42.462Z"
+    },
+    {
+      "id": "ai-query-1788968759587",
+      "query": "[AI Q&A] giới thiệu kĩ hơn về tác giả",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T15:45:59.587Z"
+    },
+    {
+      "id": "ai-query-1788971932134",
+      "query": "[AI Q&A] Tóm tắt nội dung chính",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:38:52.134Z"
+    },
+    {
+      "id": "ai-query-1788971938717",
+      "query": "[AI Q&A] 3 Câu hỏi ôn tập thảo luận",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:38:58.717Z"
+    },
+    {
+      "id": "ai-query-1788971953692",
+      "query": "[AI Q&A] chi tiết về tác giả",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:39:13.692Z"
+    },
+    {
+      "id": "ai-query-1788972137097",
+      "query": "[AI Q&A] Con cáo dạy cho hoàng tử bé bài học gì?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:42:17.097Z"
+    },
+    {
+      "id": "ai-query-1788972147212",
+      "query": "[AI Q&A] Con cáo dạy cho hoàng tử bé bài học gì?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:42:27.212Z"
+    },
+    {
+      "id": "ai-query-1788972156933",
+      "query": "[AI Q&A] Bông hồng đại diện cho ai và có tính cách thế nào?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:42:36.933Z"
+    },
+    {
+      "id": "ai-query-1788972241156",
+      "query": "[AI Q&A] Dế Mèn đã rút ra bài học đắt giá gì sau cái chết của Dế Choắt?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:44:01.156Z"
+    },
+    {
+      "id": "ai-query-1788972285084",
+      "query": "[AI Q&A] chi tiết về tác giả",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:44:45.084Z"
+    },
+    {
+      "id": "ai-query-1788972307103",
+      "query": "[AI Q&A] Đối tượng nghiên cứu chính?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:45:07.103Z"
+    },
+    {
+      "id": "ai-query-1788972507981",
+      "query": "[AI Q&A] Ý nghĩa của con cáo trong truyện là gì?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:48:27.981Z"
+    },
+    {
+      "id": "ai-query-1788972540478",
+      "query": "[AI Q&A] Đối tượng nghiên cứu chính?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:49:00.478Z"
+    },
+    {
+      "id": "ai-query-1788972615045",
+      "query": "[AI Q&A] chi tiết về tác giả",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:50:15.045Z"
+    },
+    {
+      "id": "ai-query-1788972785744",
+      "query": "[AI Q&A] Ai là nhân vật chính và thông điệp của sách?",
+      "category": "AI Assistant",
+      "resultsCount": 1,
+      "timestamp": "2026-09-09T16:53:05.744Z"
+    }
+  ],
+  "customCategories": {
+    "Văn học": {
+      "name": "Văn học",
+      "icon": "BookOpen",
+      "description": "Tác phẩm văn học kinh điển, tiểu thuyết và truyện thiếu nhi bất hủ",
+      "gradient": "from-orange-500 to-amber-500"
+    },
+    "Khoa học": {
+      "name": "Khoa học",
+      "icon": "Atom",
+      "description": "Vật lý vũ trụ, sinh học phân tử, thuyết tương đối và khám phá tự nhiên",
+      "gradient": "from-blue-500 to-cyan-500"
+    },
+    "Địa lý": {
+      "name": "Địa lý",
+      "icon": "Globe2",
+      "description": "Địa chính trị thế giới, bản đồ, biến đổi khí hậu và hệ sinh thái Trái Đất",
+      "gradient": "from-emerald-500 to-teal-500"
+    },
+    "Tâm lý": {
+      "name": "Tâm lý",
+      "icon": "Brain",
+      "description": "Tư duy nhận thức, tâm lý học hành vi, trí tuệ cảm xúc và thấu hiểu bản thân",
+      "gradient": "from-purple-500 to-indigo-500"
+    },
+    "Công nghệ": {
+      "name": "Công nghệ",
+      "icon": "Laptop",
+      "description": "Kỷ nguyên AI, khoa học máy tính, kỹ nghệ phần mềm và kiến trúc mã nguồn",
+      "gradient": "from-violet-500 to-fuchsia-500"
+    },
+    "Nghệ thuật": {
+      "name": "Nghệ thuật",
+      "icon": "Palette",
+      "description": "Lịch sử hội họa, thẩm mỹ thị giác, điêu khắc và tư duy sáng tạo nghệ thuật",
+      "gradient": "from-pink-500 to-rose-500"
+    },
+    "Lịch sử": {
+      "name": "Lịch sử",
+      "icon": "Scroll",
+      "description": "Quốc sử Đại Việt hào hùng, tiến hóa nhân loại và những bước ngoặt văn minh",
+      "gradient": "from-amber-600 to-yellow-600"
+    },
+    "Kỹ năng sống": {
+      "name": "Kỹ năng sống",
+      "icon": "Sparkles",
+      "description": "7 thói quen thành đạt, thuật đắc nhân tâm, quản lý thời gian và hướng nghiệp",
+      "gradient": "from-teal-500 to-emerald-600"
+    }
+  },
+  "deletedBookIds": [
+    "de-men-phieu-luu-ky",
+    "hoang-tu-be",
+    "sapiens-luoc-su-loai-nguoi",
+    "luoc-su-thoi-gian",
+    "tu-duy-nhanh-va-cham",
+    "nhung-tu-nhan-cua-dia-ly",
+    "clean-code-ma-sach",
+    "cau-chuyen-nghe-thuat",
+    "7-thoi-quen-cua-ban-tre-thanh-dat",
+    "tuoi-tho-du-doi",
+    "vu-tru-trong-vo-hat-de",
+    "dac-nhan-tam",
+    "tuoi-tre-dang-gia-bao-nhieu",
+    "di-tim-le-song",
+    "cosmos-vu-tru",
+    "dai-viet-su-ky-toan-thu",
+    "cuoc-cach-mang-ai",
+    "thiet-ke-cuoc-doi-ban",
+    "hanh-tinh-cua-chung-ta",
+    "tam-ly-hoc-ve-tien",
+    "lao-hac",
+    "gen-lich-su-tuong-lai"
+  ],
+  "lastSavedAt": "2026-10-02T16:09:27.246Z"
+}

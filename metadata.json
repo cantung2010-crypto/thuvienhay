@@ -1,0 +1,6 @@
+{
+  "name": "THƯ VIỆN THÔNG MINH",
+  "description": "Hệ thống AI khám phá sách thông minh cho thư viện trường học: quét barcode/ISBN, phân tích AI RAG đa chiều, trò chuyện hỏi đáp sâu về sách và gợi ý cá nhân hóa.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

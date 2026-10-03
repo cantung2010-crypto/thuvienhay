@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-heading: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-body: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  html, body {
+    overscroll-behavior-y: none;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: #ffffff;
+    color: #111827;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Minimal clean scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+  background: #e5e7eb;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Contain scrolling within each section so mouse wheel doesn't leak into adjacent areas */
+.overscroll-contain,
+[class*="overflow-y-auto"],
+[class*="overflow-x-auto"],
+[class*="overflow-auto"],
+main,
+dialog,
+form {
+  overscroll-behavior: contain;
+}
+
+/* Floating literary motifs & surprise animations */
+@keyframes floatUpSwirl {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.6) rotate(0deg);
+  }
+  20% {
+    opacity: 1;
+    transform: translateY(0px) scale(1.1) rotate(-8deg);
+  }
+  50% {
+    opacity: 0.95;
+    transform: translateY(-40px) scale(1) rotate(12deg);
+  }
+  80% {
+    opacity: 0.8;
+    transform: translateY(-80px) scale(0.95) rotate(-6deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-130px) scale(0.7) rotate(15deg);
+  }
+}
+
+@keyframes butterflyFlap {
+  0%, 100% {
+    transform: scaleX(1) rotate(0deg);
+  }
+  50% {
+    transform: scaleX(0.3) rotate(5deg);
+  }
+}
+
+@keyframes surpriseBannerPop {
+  0% {
+    opacity: 0;
+    transform: scale(0.6) translateY(20px);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.08) translateY(-5px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.animate-float-swirl {
+  animation: floatUpSwirl 2.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+}
+
+.animate-butterfly {
+  animation: butterflyFlap 0.25s infinite ease-in-out;
+}
+
+.animate-surprise-pop {
+  animation: surpriseBannerPop 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+/* Html5Qrcode video viewport styling */
+#barcode-reader-viewport {
+  width: 100% !important;
+  height: 100% !important;
+  position: relative !important;
+  border: none !important;
+}
+
+#barcode-reader-viewport video {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 1rem !important;
+}
+
+#barcode-reader-viewport #qr-shaded-region {
+  border-radius: 1rem !important;
+  border-color: rgba(249, 115, 22, 0.6) !important;
+}
+
+
